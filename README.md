@@ -1,6 +1,6 @@
 
 <p align=center>
-<img target = "banner" src="https://github.com/NicoLiao/Pixiv-Downloader/blob/main/img/banner.png?raw=true">
+<img target = "banner" src="b8519521adee24ebf99835ba62200e8b.jpg">
 </p>
 
 <p align=center>
